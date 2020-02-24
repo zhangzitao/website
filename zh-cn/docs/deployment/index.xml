@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gin Web Framework – 部署</title>
+    <link>https://gin-gonic.com/zh-cn/docs/deployment/</link>
+    <description>Recent content in 部署 on Gin Web Framework</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	  <atom:link href="https://gin-gonic.com/zh-cn/docs/deployment/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+  </channel>
+</rss>

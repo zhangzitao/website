@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gin Web Framework – 基准测试</title>
+    <link>https://gin-gonic.com/zh-cn/docs/benchmarks/</link>
+    <description>Recent content in 基准测试 on Gin Web Framework</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	  <atom:link href="https://gin-gonic.com/zh-cn/docs/benchmarks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+  </channel>
+</rss>
